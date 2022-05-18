@@ -130,6 +130,8 @@ class Board:
                 if tile.isMine and not tile.revealed:
                     self.updateBoard(tile)
                     tile.revealed = True
+                else:
+                    tile.revealed = True
 
 
     # Iterate through unrevealed tiles and then mark them safe or unsafe
