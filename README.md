@@ -3,6 +3,7 @@ Python implementation of Minesweeper using Tkinter and a Satisfiability (SAT) So
 
 Welcome to my python3 implementation of minesweeper. To run you need python3 with
 tkinter, pycryptosat, and a screen environment to display on. (For windows you can use VcXsrv)
+
 Information on pycryptosat found here: https://pypi.org/project/pycryptosat/
 
 To work "board.py", "tile.py", "mineswee.py", "SATSolver.py", and "minesweeperLogic.py" must all be in the same folder. Thank you to Professor Dave Musicant for the "SATSolver.py" file. 
